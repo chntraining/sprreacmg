@@ -1,5 +1,17 @@
 # Compiled class file
 *.class
+.classpath
+.gitignore
+.project
+HELP
+mvnw
+
+
+#folders
+.mvn/
+.settings/
+bin/
+target/
 
 # Log file
 *.log
